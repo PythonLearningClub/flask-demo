@@ -15,7 +15,7 @@ Pay attention to the next caveats:
 * Make sure you don't need to type entire build and run command every time 
 
 ## Repo restirctions  
-Commiting to the master is disabled. Use your own branch for solutions. 
+Commiting to the master can't be disabled in free plan. Please use your own branch for solutions. 
 
 ### Additional info  
 * [Flask Quickstart guide](https://flask.palletsprojects.com/en/2.1.x/quickstart/)  
