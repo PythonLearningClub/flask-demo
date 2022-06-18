@@ -4,7 +4,7 @@ Since name of the file containing Flask app is not `app.py`, first we need to se
 `export FLASK_APP=hello`  
 After that app can by run using command:  
 `flask run`  
-Page should be accessible at [](localhost:5000)
+Page should be accessible at [localhost](127.0.0.1:5000)
 
 ## Running Flask app in Docker container  
 That's the challenge.  
